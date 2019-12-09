@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6c5ae5c3f2eb494a8ffd0f80fb03e41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bircizgi: {instanceID: 0}
+  - ikicizgi: {instanceID: 0}
+  - uccizgi: {instanceID: 0}
+  - dortcizgi: {instanceID: 0}
+  - buton: {instanceID: 0}
+  - yenidenbasla: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - sayacc: {instanceID: 0}
+  - puandurumu: {instanceID: 0}
+  - highscore: {instanceID: 0}
+  - bitispuan: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
